@@ -1,0 +1,11 @@
+patch
+{
+include "materials/models/player/puliukot/admin_nooky/ctm_sas_shared.vmt"
+insert
+{
+$baseTexture "models\player\puliukot\admin_nooky\ctm_sas_upperbody_varC"
+$bumpmap "models\player\puliukot\admin_nooky\ctm_sas_upperbody_normal"
+$phongexponenttexture "models\player\puliukot\admin_nooky\ctm_sas_upperbody_exponent"
+$rimmask 1
+}
+}

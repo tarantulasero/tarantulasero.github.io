@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$baseTexture "angelqueen_materials\aq-1\tx.vtf"
+	$nocull 1
+
+	//env
+	
+	$envmap 					"env_cubemap"
+	$envmapfresnel				"1"
+	$envmapFresnelMinMaxExp		"[0.01 0.01 0.01]"
+	$envmaptint					"[1 1 1]"
+	$normalmapalphaenvmapmask	"1"
+	
+	
+	//phong
+	
+	$phong				"1"
+	$phongtint			"[1 1 1]"
+	$phongalbedotint	"1"
+	$phongalbedoboost	"1"
+	$phongboost 		"1"
+	$phongfresnelranges "[1 1 1]"
+}

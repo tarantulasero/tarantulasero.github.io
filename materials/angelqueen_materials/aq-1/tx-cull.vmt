@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$baseTexture "angelqueen_materials\aq-1\tx-cull.vtf"
+	
+	"$lightwarptexture"	"angelqueen_materials/public/lightwarp_2"
+
+	"$halflambert"	1
+	"$nodecal"	1
+}

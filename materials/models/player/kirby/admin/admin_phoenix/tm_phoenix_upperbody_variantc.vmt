@@ -1,0 +1,9 @@
+patch
+{
+include "materials/models/player/kirby/admin/admin_phoenix/tm_phoenix_shared.vmt"
+insert
+{
+$baseTexture "models\player\kirby\admin\admin_phoenix\admin_Phoenix_Upperbody_variantC"
+$bumpmap "models\player\tm_phoenix\tm_phoenix_upperbody_normal"
+}
+}

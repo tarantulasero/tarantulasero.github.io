@@ -1,0 +1,11 @@
+patch
+{
+include "materials/models/player/puliukot/admin_scope/ctm_gsg9_shared.vmt"
+insert
+{
+$baseTexture "models\player\puliukot\admin_scope\ctm_gsg9_upperbody_variantC"
+$bumpmap "models\player\puliukot\admin_scope\ctm_gsg9_upperbody_normal"
+$phongexponenttexture "models\player\puliukot\admin_scope\ctm_gsg9_upperbody_exponent"
+$rimmask 1
+}
+}
