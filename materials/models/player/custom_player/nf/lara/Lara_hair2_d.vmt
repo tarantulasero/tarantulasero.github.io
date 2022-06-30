@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+"$basetexture" 		"models\player\custom_player\nf\lara/Lara_hair2_d"
+"$bumpmap" 			"models\player\custom_player\nf\lara/Lara_hair2_n"
+"$translucent" 1
+$nocull 0
+$ambientocclusion 0
+
+}

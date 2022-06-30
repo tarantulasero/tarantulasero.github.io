@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\night_fighter\t800\TRM_HAIR_A_Color0"
+	
+	"$halflambert" 1
+	"$alphatest" 1
+	"$allowalphatocoverage" 1 
+}
+

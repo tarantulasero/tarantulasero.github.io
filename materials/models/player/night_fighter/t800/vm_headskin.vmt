@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\night_fighter\t800\TRM_FACE_A_Color0"
+	"$bumpmap" "models\player\night_fighter\t800\TRM_FACE_A_Norm0"
+
+	"$phong"				"1"
+	"$phongboost"			"0.2"
+	"$phongexponent"		"4"
+	"$phongtint"			"[.85 .85 1]"
+	"$phongfresnelranges"	"[.5 .85 30]"
+	$rimlight 	1	
+	$rimlightexponent 50
+	$rimlightboost 0.1
+}
+

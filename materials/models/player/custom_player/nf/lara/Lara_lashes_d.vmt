@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+"$basetexture" 		"models\player\custom_player\nf\lara/Lara_lashes_d"
+"$translucent" 1
+//"$alphatest" 1
+
+
+}
