@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+
+	"$BaseTexture" 			    "models\player\night_fighter\fortnite\batman_classic\T_M_MED_BlackMonday_Houston_Head_D"
+	"$BumpMap" 				    "models\player\night_fighter\fortnite\batman_classic\T_M_MED_BlackMonday_Houston_Head_N"
+	
+//Warp
+	"$LightWarpTexture"         "models\player\night_fighter\fortnite\batman_classic\leather_warp"		//< Change as needed	
+	
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models\player\night_fighter\fortnite\batman_classic\T_M_MED_BlackMonday_Houston_Head_S"
+	
+	$phong  1
+    $phongexponent        100
+    $phongboost        1.0 
+    $phongfresnelranges    "[0 0.5 1]"
+
+    $rimlight               5
+    $rimlightexponent       5
+    $rimlightboost          0.5
+  
+ 	"$SelfIllum" 			 	  "1"  
+ 	"$selfillummaskscale"		  "1.0"
+	"$SelfIllumTint" 		 	  "[1 1 1]"
+	"$SelfIllumMask" 		   	  "models\player\night_fighter\fortnite\batman_classic\T_M_MED_BlackMonday_Houston_Head_FX"
+	"$selfillumfresnel" "0.5" 
+	
+}
+
+//by Night Fighter
